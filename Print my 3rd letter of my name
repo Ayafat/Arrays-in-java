@@ -1,0 +1,7 @@
+public class Program {
+    public static void main(String[] args) {
+        String[]MyName={"M","A","H","D","I","E","H"};
+        System.out.println(MyName[3]);
+        }
+    }
+
